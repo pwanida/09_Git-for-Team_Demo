@@ -3,10 +3,11 @@
 // Owner's Section
 Owner adds this line.\
 
-// Collaborator's Section
-Collaborator adds this line. 
-
-
+// Collaborator's Section  
+Collaborator adds this line.   
+Collaborator adds this line.  
+  
+  
 // Common Section
 
 
